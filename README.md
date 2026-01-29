@@ -18,7 +18,7 @@ Here’s a preview of the topics you’ll be learning each week. Each week inclu
 
 |Week | Topic |
 |-----|--------|
-|[Week 0]()| Introduction to programming, online judges, and setting up your environment + Revition OF C++: Basics |
+|[Week 0]()| Introduction to programming, setting up your environment and Revition OF C++: Basics |
 |[Week 1]() | Complexity Analysis, and Recursion.|
 |[Week 2]() | Pointers and Dynamic memory allocation|
 |[Week 3]() | Arrays and STL1: Vector, Pair with implementation|
