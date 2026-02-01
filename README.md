@@ -13,10 +13,10 @@ Welcome to the **Level 0 - 2026 Training**! This platform will guide you through
 
     [Link to YouTube Playlists](https://www.youtube.com/@ACMHU)
     
-  * **CodeForces Group:**
+* **CodeForces Group:**
 
 
-    [Link to CodeForces Group](https://codeforces.com/group/lQyGtRZvED/contests)
+   [Link to CodeForces Group](https://codeforces.com/group/lQyGtRZvED/contests)
 
 
 ## 📅 Weekly Breakdown
